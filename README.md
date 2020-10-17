@@ -1,5 +1,5 @@
 # Practice Repo
-![FinTech](fintech.jpg)
+![FinTech](folder_structure/fintech.jpg)
 
 ## Who are you?
 ### Gregory Rash
