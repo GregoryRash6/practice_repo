@@ -10,3 +10,5 @@
 ## Why did you choose fintech as a career path?
 ### I am very interested in technology and business, so it was a perfect fit. 
 
+[LinkedIn](https://www.linkedin.com/in/gregoryrash/)
+
